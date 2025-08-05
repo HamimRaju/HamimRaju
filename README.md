@@ -46,9 +46,9 @@
 <ul>
    <li>🌱 Always curious to explore new tech and improve every day.</li>
   <li>💻 I enjoy coding and love solving real problems with simple logic.</li>
-  <li>🛠️ Working toward becoming a skilled full stack developer step by step.</li>
+   <li>📘 Currently learning Java and Python while building university-based projects.</li>
   <li>🧩 Practicing data structures, algorithms, and OOP to sharpen my core skills.</li>
-  <li>📘 Currently learning Java and Python while building university-based projects.</li>
+  <li>🛠️ Working toward becoming a skilled full stack developer step by step.</li>
   <li>🤝 Open to collaborating on beginner-friendly open source projects and team work.</li>
 </ul>
 
