@@ -1,24 +1,14 @@
-<p align="left">Hello World!!</p>
+<img width="900" height="100" alt="image" src="https://github.com/user-attachments/assets/6ab430f0-7302-4b8b-bf21-992879a40a9e" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=500&lines=Hi+I+am+Sheikh+Hamim+Islam+Raju;From+curious+beginner+to+confident+builder" alt="Typing SVG" />
+  </a>
+</p>
 
-###
 
-<div align="center">
-  <img height="390" src="https://wallpapercave.com/wp/wp12835708.jpg"  />
-</div>
+<h3 align="center">Hey there, I'm <a href="https://github.com/HamimRaju">Sheikh Hamim Islam Raju</a></h3>
 
-###
-
-<br clear="both">
-
-<p align="left">Hey there, I'm Sheikh Hamim Islam Raju</p>
-
-###
-
-<br clear="both">
-
-<h4 align="left">Below are a few links you can visit and some stats to look at too</h4>
-
-###
+<h5 align="center">Take a look at my profiles and some cool stats.</h5>
 
 <br clear="both">
 
@@ -41,6 +31,7 @@
   </a>
 </div>
 
+
 ###
 
 <div align="center">
@@ -49,17 +40,21 @@
 
 ###
 
-<h3 align="left">🎖️Summary</h3>
 
-###
 
-<p align="left">Hello World!!</p>
+<h2><i class="fas fa-user"></i> 🌟 Summary</h2>
+<ul>
+  <li>💻 I enjoy coding and love solving real problems with simple logic.</li>
+  <li>📘 Currently learning Java and Python while building university-based projects.</li>
+  <li>🧩 Practicing data structures, algorithms, and OOP to sharpen my core skills.</li>
+  <li>🌱 Always curious to explore new tech and improve every day.</li>
+  <li>🛠️ Working toward becoming a skilled full stack developer step by step.</li>
+  <li>🤝 Open to collaborating on beginner-friendly open source projects and team work.</li>
+</ul>
 
-###
 
-<h3 align="left">📨Reach out anytime :</h3>
+<h2><i class="fas fa-users"></i> 📨 Connect with me:</h2>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sheikh-hamim-islam-raju-506a1b270/" target="_blank">
@@ -76,18 +71,19 @@
   <a href="https://www.instagram.com/___rajuu___70/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="32" alt="instagram logo"  />
   </a>
+
+
+
+<h2><i class="fas fa-users"></i> ⚡ Language & Tools</h2>
+  <p>Talk to me about:</p>
+  <ul>
+    <li>Backend development using Django, Node.js, Express.js</li>
+    <li>Front-end development using React </li>
+    <li>Language expertise in Python, C/C++, JavaScript, Java</li>
+    <li>Masking for Relational Database Management Systems (MySQL, MongoDB)</li>
+    <li>Solving Data structure and algorithm questions in C/C++, Python.</li>
+    <li>Regular user of Linux Operating System.</li>    
 </div>
-
-###
-
-<p align="left">Language & Tools:</p>
-
-###
-
-<p align="left">Talk to me about:<br><br>.<br>.</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -104,6 +100,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
+
+
 ###
 
 <div align="center">
@@ -118,10 +116,13 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/HamimRaju/HamimRaju/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HamimRaju&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
