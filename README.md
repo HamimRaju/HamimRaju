@@ -44,11 +44,11 @@
 
 <h2><i class="fas fa-user"></i> 🌟 Summary</h2>
 <ul>
+   <li>🌱 Always curious to explore new tech and improve every day.</li>
   <li>💻 I enjoy coding and love solving real problems with simple logic.</li>
-  <li>📘 Currently learning Java and Python while building university-based projects.</li>
-  <li>🧩 Practicing data structures, algorithms, and OOP to sharpen my core skills.</li>
-  <li>🌱 Always curious to explore new tech and improve every day.</li>
   <li>🛠️ Working toward becoming a skilled full stack developer step by step.</li>
+  <li>🧩 Practicing data structures, algorithms, and OOP to sharpen my core skills.</li>
+  <li>📘 Currently learning Java and Python while building university-based projects.</li>
   <li>🤝 Open to collaborating on beginner-friendly open source projects and team work.</li>
 </ul>
 
@@ -77,12 +77,12 @@
 <h2><i class="fas fa-users"></i> ⚡ Language & Tools</h2>
   <p>Talk to me about:</p>
   <ul>
-    <li>Backend development using Django, Node.js, Express.js</li>
-    <li>Front-end development using React </li>
-    <li>Language expertise in Python, C/C++, JavaScript, Java</li>
-    <li>Masking for Relational Database Management Systems (MySQL, MongoDB)</li>
-    <li>Solving Data structure and algorithm questions in C/C++, Python.</li>
-    <li>Regular user of Linux Operating System.</li>    
+    <li>Currently learning Frontend Development.</li>
+    <li>Language expertise in Python,Java and JavaScript.</li>
+    <li>Practicing core programming concepts and DSA in Java</li>
+    <li>Familiar with GitHub and version control for sharing and managing code.</li>
+    <li>Actively building foundational skills to become a full-stack web developer by 2025.</li>
+    
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
