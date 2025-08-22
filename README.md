@@ -1,10 +1,11 @@
 <img width="900" height="100" alt="image" src="https://github.com/user-attachments/assets/6ab430f0-7302-4b8b-bf21-992879a40a9e" />
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=500&lines=Hi+I+am+Sheikh+Hamim+Islam+Raju;From+curious+beginner+to+confident+builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF0000&center=true&width=500&lines=Hi+I+am+Sheikh+Hamim+Islam+Raju;From+curious+beginner+to+confident+builder" alt="Typing SVG" />
   </a>
 </p>
-
 
 
 <div align="center">
