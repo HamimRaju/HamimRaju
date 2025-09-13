@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF0000&center=true&width=500&lines=Hi+I+am+Sheikh+Hamim+Islam+Raju;From+curious+beginner+to+confident+builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF4500&center=true&width=500&lines=Hi+I+am+Sheikh+Hamim+Islam+Raju;From+curious+beginner+to+confident+builder" alt="Typing SVG" />
   </a>
 </p>
-
 
 <div align="center">
   <img height="400" width="1200" src="https://i.pinimg.com/1200x/0d/13/46/0d1346fe637831714d4a0a704c4c48a8.jpg" />
