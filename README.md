@@ -58,13 +58,15 @@
 
 <h2><i class="fas fa-user"></i> 🌟 Summary</h2>
 <ul>
-   <li>🌱 Always curious to explore new tech and improve every day.</li>
-  <li>💻 I enjoy coding and love solving real problems with simple logic.</li>
-   <li>📘 Currently learning Java and Python while building university-based projects.</li>
-  <li>🧩 Practicing data structures, algorithms, and OOP to sharpen my core skills.</li>
-  <li>🛠️ Working toward becoming a skilled full stack developer step by step.</li>
-  <li>🤝 Open to collaborating on beginner-friendly open source projects and team work.</li>
+  <li>💻 Frontend Developer focused on building modern and responsive web applications.</li>
+  <li>⚡ Strong foundation in HTML, CSS, JavaScript, and TypeScript.</li>
+  <li>⚛️ Developing interactive web applications with React.</li>
+  <li>🧠 Practicing Data Structures & Algorithms and Object-Oriented Programming to strengthen problem-solving skills.</li>
+  <li>🔧 Experienced with Git, GitHub, debugging, and writing clean, maintainable code.</li>
+  <li>🚀 Currently expanding my backend knowledge and working toward becoming a Full Stack Developer.</li>
+  <li>📚 Continuously improving through real-world projects, problem solving, and modern development practices.</li>
 </ul>
+
 
 
 <h2><i class="fas fa-users"></i> 📨 Connect with me:</h2>
