@@ -74,19 +74,29 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sheikh-hamim-islam-raju-506a1b270/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="32" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
+  <img width="12" />
   <a href="https://x.com/Hamim_Raju_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="39" height="32" alt="twitter logo"  />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="32" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="39" height="32" alt="discord logo"  />
+  <img width="12" />
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
+  </a>
+  <img width="12" />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
+  </a>
+  <img width="12" />
   <a href="https://www.facebook.com/hamim.islam.raju.2025" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="39" height="32" alt="facebook logo"  />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo" />
   </a>
+  <img width="12" />
   <a href="https://www.instagram.com/___rajuu___70/?hl=en" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="32" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
   </a>
+</div>
 
 
 
