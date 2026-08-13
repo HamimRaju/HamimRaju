@@ -73,27 +73,27 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sheikh-hamim-islam-raju-506a1b270/" target="_blank">
+  <a href="https://www.linkedin.com/in/sheikh-hamim-islam-raju-506a1b270/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
-  <img width="12" />
-  <a href="https://x.com/Hamim_Raju_" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://x.com/Hamim_Raju_" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo" />
   </a>
-  <img width="12" />
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
   </a>
-  <img width="12" />
-  <a href="https://discord.com" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://discord.com" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
   </a>
-  <img width="12" />
-  <a href="https://www.facebook.com/hamim.islam.raju.2025" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/hamim.islam.raju.2025" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo" />
   </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/___rajuu___70/?hl=en" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/___rajuu___70/?hl=en" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
   </a>
 </div>
