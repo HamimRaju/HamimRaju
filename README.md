@@ -95,7 +95,7 @@
     <li>Language expertise in Python,Java and JavaScript.</li>
     <li>Practicing core programming concepts and DSA in Java</li>
     <li>Familiar with GitHub and version control for sharing and managing code.</li>
-    <li>Actively building foundational skills to become a full-stack web developer by 2025.</li>
+    <li>Actively building foundational skills to become a full-stack web developer by 2025.</li> <br>
     
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
