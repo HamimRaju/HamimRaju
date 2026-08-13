@@ -56,7 +56,7 @@
 
 
 
-<h2><i class="fas fa-user"></i> 🌟 Summary</h2>
+<center> <h2><i class="fas fa-user"></i> 🌟 Summary</h2> <center/>
 <ul>
   <li>💻 Frontend Developer focused on building modern and responsive web applications.</li>
   <li>⚡ Strong foundation in HTML, CSS, JavaScript, and TypeScript.</li>
