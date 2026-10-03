@@ -60,13 +60,18 @@
 </center>
 
 <ul>
-  <li>💻 Frontend Developer focused on building modern and responsive web applications.</li>
-  <li>⚡ Strong foundation in HTML, CSS, JavaScript, and TypeScript.</li>
-  <li>⚛️ Developing interactive web applications with React.</li>
-  <li>🧠 Practicing Data Structures & Algorithms and Object-Oriented Programming to strengthen problem-solving skills.</li>
-  <li>🔧 Experienced with Git, GitHub, debugging, and writing clean, maintainable code.</li>
-  <li>🚀 Currently expanding my backend knowledge and working toward becoming a Full Stack Developer.</li>
-  <li>📚 Continuously improving through real-world projects, problem solving, and modern development practices.</li>
+  <li>💻 <strong>Frontend Developer</strong> focused on building scalable, performant, and production-ready web applications.</li>
+  <li>⚛️ Building modern applications with <strong>Next.js, React, and TypeScript</strong>, with a strong focus on component architecture and maintainable code.</li>
+  <li>🎨 Experienced in developing responsive, mobile-first interfaces using <strong>Tailwind CSS and modern UI component systems</strong>.</li>
+  <li>🔐 Building secure authentication and user-management systems with <strong>Better Auth</strong>, including email/password and social authentication.</li>
+  <li>🗄️ Working with <strong>MongoDB and Mongoose</strong> to design and integrate database-driven applications.</li>
+  <li>🚀 Focused on <strong>performance, efficient data fetching, scalable architecture, and smooth user experiences</strong>.</li>
+  <li>🧠 Strengthening my engineering fundamentals through <strong>Data Structures & Algorithms, Object-Oriented Programming, and problem solving</strong>.</li>
+  <li>☕ Strong programming foundation in <strong>Java and Object-Oriented Programming</strong>, alongside modern TypeScript development.</li>
+  <li>🔧 Experienced with <strong>Git, GitHub, debugging, authentication flows, API integration, and modern development workflows</strong>.</li>
+  <li>🏗️ Building real-world applications from the ground up, including <strong>Bachelor Point</strong> — a mobile-first platform for managing shared household tasks, expenses, bills, and responsibilities.</li>
+  <li>🌐 Working toward becoming a <strong>Full Stack Developer</strong> by expanding my backend, database, system design, and software engineering knowledge.</li>
+  <li>📚 Continuously learning, experimenting, and improving through <strong>real-world projects and practical software development</strong>.</li>
 </ul>
 
 
