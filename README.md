@@ -53,7 +53,7 @@
 <table width="100%">
   <tr>
     <td>
-      <h2>👨‍💻 Professional Summary</h2>
+      <h2>👨‍💻 About Me</h2>
       <p>
         Result-driven <b>Frontend Developer</b> with strong expertise in building scalable, production-ready web applications using <b>Next.js, TypeScript, React, and Tailwind CSS</b>. Proficient in integrating full-stack capabilities through <b>MongoDB, Mongoose, and Better Auth</b>.
       </p>
