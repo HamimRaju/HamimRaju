@@ -1,6 +1,5 @@
 <img width="900" height="100" alt="image" src="https://github.com/user-attachments/assets/6ab430f0-7302-4b8b-bf21-992879a40a9e" />
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF4500&center=true&width=500&lines=Hi+I+am+Sheikh+Hamim+Islam+Raju;From+curious+beginner+to+confident+builder" alt="Typing SVG" />
@@ -11,148 +10,189 @@
   <img height="400" width="1200" src="https://i.pinimg.com/1200x/0d/13/46/0d1346fe637831714d4a0a704c4c48a8.jpg" />
 </div>
 
+<br />
 
+<!-- Identity & Value Proposition -->
+<div align="center">
+  <h1>Hi, I'm <a href="https://github.com/HamimRaju" style="text-decoration: none; color: #FF4500;">Sheikh Hamim Islam Raju</a> 👋</h1>
+  <p><b>Software Engineer | Specializing in Modern Frontend Architecture & Scalable Web Systems</b></p>
+  
+  <p>📍 Based in Dhaka, Bangladesh • 🌐 Open to Remote & On-Site Opportunities</p>
+</div>
 
+<br />
 
-
-<h3 align="center">Hey there, I'm <a href="https://github.com/HamimRaju">Sheikh Hamim Islam Raju</a></h3>
-
-<h5 align="center">Take a look at my profiles and some cool stats.</h5>
-
-<br clear="both">
-
-
+<!-- Professional Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/sheikh-hamim-islam-raju-506a1b270/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="mailto:rajumcsk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Gmail" />
+  </a>
+  &nbsp;
   <a href="https://x.com/Hamim_Raju_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="34" alt="X" />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="discord logo"  />
+  &nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="34" alt="Discord" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HamimRaju.HamimRaju&left_color=darkgreen&right_color=darkred" alt="Visitor Counter Badge" />
+</div>
+
+---
+
+<!-- Executive Summary Table -->
+<table width="100%">
+  <tr>
+    <td>
+      <h2>👨‍💻 Professional Summary</h2>
+      <p>
+        Result-driven <b>Frontend Developer</b> with strong expertise in building scalable, production-ready web applications using <b>Next.js, TypeScript, React, and Tailwind CSS</b>. Proficient in integrating full-stack capabilities through <b>MongoDB, Mongoose, and Better Auth</b>.
+      </p>
+      <p>
+        Demonstrated ability to convert complex Figma designs into high-performance, accessible UI architectures while applying solid <b>Computer Science fundamentals (DSA & OOP in Java and Python)</b> to deliver maintainable software.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Technical Stack Section -->
+<h2 align="center">🛠️ Technical Stack</h2>
+
+<br />
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="left">Category</th>
+      <th width="50%" align="left">Technologies & Capabilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>💻 Frontend Engineering</b></td>
+      <td>Next.js (App Router), React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Modern CSS3, HTML5</td>
+    </tr>
+    <tr>
+      <td><b>⚙️ Backend & Database</b></td>
+      <td>MongoDB, Mongoose ORM, Better Auth (OAuth & Credentials), RESTful API Design</td>
+    </tr>
+    <tr>
+      <td><b>☕ Core Software Engineering</b></td>
+      <td>Java, Python, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)</td>
+    </tr>
+    <tr>
+      <td><b>🎨 UI/UX & Design Integration</b></td>
+      <td>Figma to Pixel-Perfect Code, Mobile-First Layouts, Component Architecture</td>
+    </tr>
+    <tr>
+      <td><b>🔧 Developer Tools & Ecosystem</b></td>
+      <td>Git, GitHub, VS Code, npm, pnpm, CI/CD Workflows</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+<!-- Interactive Tech Stack Icons -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,mongodb,java,py,figma,git,github,vscode,html,css&perline=7" alt="Tech Stack Icons" />
+</div>
+
+---
+
+<!-- Connect With Me Section -->
+<div align="center">
+  <h2>📨 Connect with Me</h2>
+  <p>Feel free to reach out for collaborations, project inquiries, or technical discussions!</p>
+  <br />
+  <a href="https://www.linkedin.com/in/sheikh-hamim-islam-raju-506a1b270/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rajumcsk@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Hamim_Raju_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="42" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/hamim.islam.raju.2025" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="facebook logo"  />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="42" alt="Facebook" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/___rajuu___70/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
   </a>
 </div>
 
+---
 
+<!-- Showcase Project Section -->
+<h2>🚀 Featured Project</h2>
 
-###
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🏠 Bachelor Point — Household Management System</h3>
+      <p>
+        <b>Bachelor Point</b> is a mobile-first, full-stack application designed to optimize shared living dynamics for flatmates. It provides real-time tracking for shared bills, chores, daily responsibilities, and household budgeting.
+      </p>
+      <ul>
+        <li><b>Key Capabilities:</b> Secure Multi-Tenant Authentication, Dynamic Expense Splitting, Responsive UI Architecture.</li>
+        <li><b>Tech Stack:</b> <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>MongoDB</code> • <code>Better Auth</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+---
+
+<!-- Analytics & Performance Metrics -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HamimRaju.HamimRaju&left_color=darkgreen&right_color=darkred"  />
+  <h2>📊 Git Activity & Technical Footprint</h2>
+  <br />
+  
+  <table border="0">
+    <tr>
+      <td>
+        <img height="175" src="https://github-readme-stats.vercel.app/api?username=HamimRaju&theme=dracula&show_icons=true&hide_border=true&title_color=FF4500&icon_color=FF4500" alt="GitHub Overview Stats" />
+      </td>
+      <td>
+        <img height="175" src="https://github-readme-streak-stats-eight.vercel.app?user=HamimRaju&theme=dracula&hide_border=true&fire=FF4500&ring=FF4500" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamimRaju&theme=dracula&layout=compact&hide_border=true&title_color=FF4500" alt="Top Languages" />
 </div>
 
-###
+<br />
 
+---
 
-
-<center>
-  <h2><i class="fas fa-user"></i> 🌟 Summary</h2>
-</center>
-
-<ul>
-  <li>💻 <strong>Frontend Developer</strong> focused on building scalable, performant, and production-ready web applications.</li>
-  <li>⚛️ Building modern applications with <strong>Next.js, React, and TypeScript</strong>, with a strong focus on component architecture and maintainable code.</li>
-  <li>🎨 Experienced in developing responsive, mobile-first interfaces using <strong>Tailwind CSS and modern UI component systems</strong>.</li>
-  <li>🔐 Building secure authentication and user-management systems with <strong>Better Auth</strong>, including email/password and social authentication.</li>
-  <li>🗄️ Working with <strong>MongoDB and Mongoose</strong> to design and integrate database-driven applications.</li>
-  <li>🚀 Focused on <strong>performance, efficient data fetching, scalable architecture, and smooth user experiences</strong>.</li>
-  <li>🧠 Strengthening my engineering fundamentals through <strong>Data Structures & Algorithms, Object-Oriented Programming, and problem solving</strong>.</li>
-  <li>☕ Strong programming foundation in <strong>Java and Object-Oriented Programming</strong>, alongside modern TypeScript development.</li>
-  <li>🔧 Experienced with <strong>Git, GitHub, debugging, authentication flows, API integration, and modern development workflows</strong>.</li>
-  <li>🏗️ Building real-world applications from the ground up, including <strong>Bachelor Point</strong> — a mobile-first platform for managing shared household tasks, expenses, bills, and responsibilities.</li>
-  <li>🌐 Working toward becoming a <strong>Full Stack Developer</strong> by expanding my backend, database, system design, and software engineering knowledge.</li>
-  <li>📚 Continuously learning, experimenting, and improving through <strong>real-world projects and practical software development</strong>.</li>
-</ul>
-
-
-
-<h2><i class="fas fa-users"></i> 📨 Connect with me:</h2>
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sheikh-hamim-islam-raju-506a1b270/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/Hamim_Raju_" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/hamim.islam.raju.2025" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/___rajuu___70/?hl=en" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
-  </a>
-</div>
-
-
-
-<h2><i class="fas fa-users"></i> ⚡ Language & Tools</h2>
-  <p>Talk to me about:</p>
-  <ul>
-    <li>Currently learning Frontend Development.</li>
-    <li>Language expertise in Python,Java and JavaScript.</li>
-    <li>Practicing core programming concepts and DSA in Java</li>
-    <li>Familiar with GitHub and version control for sharing and managing code.</li>
-    <li>Actively building foundational skills to become a full-stack web developer by 2025.</li> <br>
-    
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind css logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroui" height="40" alt="heroui logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-</div>
-
-
-
-
-###
-
+<!-- Recruiter CTA Footer -->
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=HamimRaju&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <h3>💼 Open to Engineering Opportunities</h3>
+  <p>Looking for a dedicated software engineer to build impactful products? Let's connect!</p>
+  <p>
+    📩 <b>Direct Email:</b> <a href="mailto:rajumcsk@gmail.com">rajumcsk@gmail.com</a> | 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sheikh-hamim-islam-raju-506a1b270/">Sheikh Hamim Islam Raju</a>
+  </p>
 </div>
-
-###
